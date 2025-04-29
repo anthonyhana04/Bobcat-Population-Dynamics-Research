@@ -1,5 +1,7 @@
 # 🐾 Bobcat Population Dynamics Research
 
+THE CODE FOR THIS PROJECT IS IN THE PDF REPORT, THIS WAS REQUESTED BY OUR PROFESSOR AT THE TIME.
+
 A mathematical modeling project analyzing bobcat population trends and sustainability through age-structured simulations.
 
 ## 📘 Overview
